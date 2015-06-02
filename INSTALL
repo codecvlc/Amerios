@@ -1,0 +1,9 @@
+Building Amerios
+
+See doc/readme-qt.rst for instructions on building Amerios-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Amerios.
+
+See doc/build-*.txt for instructions on building ameriosd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Amerios.
